@@ -22,8 +22,8 @@ El objetivo es analizar los datos disponibles, identificar patrones relevantes y
 - `prediccion_fallo_industrial.ipynb`: notebook principal con el análisis completo.
 - `train.csv`: conjunto de entrenamiento.
 - `test.csv`: conjunto de prueba.
-- `naive_bayes.py`: implementación auxiliar del modelo Naive Bayes.
-- `decision_tree_c45.py`: implementación auxiliar del árbol de decisión C4.5.
+- `NB.py`: implementación auxiliar del modelo Naive Bayes.
+- `c45.py`: implementación auxiliar del árbol de decisión C4.5.
 
 ## Proceso realizado
 1. Exploración y limpieza de datos.
