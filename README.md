@@ -38,3 +38,4 @@ El proyecto permite entender el flujo completo de un problema de mantenimiento p
 
 ## Autor
 Alex Ortega
+Celia Almendros
